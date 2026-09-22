@@ -1,4 +1,3 @@
-# reddynikesh
 # <div align="center">
 # 👋 Hi there! I'm **reddynikesh** 
 ### 🤖 AI Engineer | Full Stack Developer | Machine Learning Enthusiast
@@ -182,19 +181,19 @@ An intelligent system that uses NLP and machine learning to automatically screen
 
 ### 📈 **GitHub Overview**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddynikesh83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddynikesh83-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 📝 **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddynikesh83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddynikesh83-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ### 🔥 **Contribution Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reddynikesh83&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=reddynikesh83-create&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 **GitHub Activity Graph**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddynikesh83&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddynikesh83-create&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -324,7 +323,7 @@ I'm actively seeking collaboration opportunities on:
 
 | 🔗 Link | Description |
 |---------|-------------|
-| [🌐 GitHub Profile](https://github.com/reddynikesh83) | All my repositories & projects |
+| [🌐 GitHub Profile](https://github.com/reddynikesh83-create) | All my repositories & projects |
 | [💼 LinkedIn](https://www.linkedin.com/in/b-nikesh-reddy-ab542b423) | Professional networking |
 | [📧 Email Me](mailto:reddynikesh83@gmail.com) | Get in touch directly |
 | [🚀 AI Resume Project](https://github.com/reddynikesh83-create/Mini.project) | Featured project repository |
@@ -342,7 +341,7 @@ I'm actively seeking collaboration opportunities on:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:reddynikesh83@gmail.com)](mailto:reddynikesh83@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/b-nikesh-reddy-ab542b423)](https://www.linkedin.com/in/b-nikesh-reddy-ab542b423)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/reddynikesh83)](https://github.com/reddynikesh83)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/reddynikesh83-create)](https://github.com/reddynikesh83-create)
 
 <br>
 
@@ -434,7 +433,7 @@ Future: Contributing to Industry & Open Source 🚀
 
 ### 📊 *Visitor Count*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reddynikesh83&title=Profile%20Views)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=reddynikesh83-create&title=Profile%20Views)
 
 ---
 
@@ -442,7 +441,7 @@ Future: Contributing to Industry & Open Source 🚀
 *September 2026*
 
 ### 💻 **Made with** 
-❤️ **by reddynikesh83** | 🤖 **Powered by Passion for AI & Development**
+❤️ **by reddynikesh83-create** | 🤖 **Powered by Passion for AI & Development**
 
 ---
 
